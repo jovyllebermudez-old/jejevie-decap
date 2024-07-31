@@ -1,5 +1,5 @@
 ---
-title: "Sustainable Adventures: Exploring Eco-Friendly Escapes"
+title: "Sustainable Adventures: Exploring Eco-Friendly Escapes."
 description: Let's celebrate the magic of nature together! This blog is filled
   with stories, tips, and stunning visuals to fuel your wanderlust.
 author: "-"
